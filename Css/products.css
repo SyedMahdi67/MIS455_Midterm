@@ -4,7 +4,7 @@ body {
     padding: 0;
 }
 
-header, footer {
+header{
     background-color: #333;
     color: #fff;
     text-align: center;
@@ -23,4 +23,8 @@ header nav a:hover {
 
 h1, h2 {
     font-family: 'Lobster', cursive;
+}
+
+.container{
+    padding: 20px;
 }
