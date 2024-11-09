@@ -20,3 +20,18 @@ header nav a {
 header nav a:hover {
     color: #9b9696;
 }
+
+h1, h2 {
+    font-family: 'Lobster', cursive;
+}
+
+.container {
+    padding: 20px;
+}
+
+.home-content {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
